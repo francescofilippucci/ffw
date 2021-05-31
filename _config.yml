@@ -29,3 +29,5 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - redcarpet
+
+theme: jekyll-theme-cayman
