@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>FF >></title>
+ <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://hyde.getpoole.com/"/>
+ <updated>2021-05-31T23:03:17+02:00</updated>
+ <id>http://hyde.getpoole.com</id>
+ <author>
+   <name>Mark Otto</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome to my personal website!</title>
+   <link href="http://hyde.getpoole.com/2013/12/28/introducing-hyde/"/>
+   <updated>2013-12-28T00:00:00+01:00</updated>
+   <id>http://hyde.getpoole.com/2013/12/28/introducing-hyde</id>
+   <content type="html">&lt;p&gt;I am a PhD Candidate at the Paris School of Economics.
+Here you can find my research, my policy projects, and some personal information.&lt;/p&gt;
+
+&lt;h1 id=&quot;research&quot;&gt;Research&lt;/h1&gt;
+
+&lt;h3 id=&quot;subtitle&quot;&gt;Subtitle&lt;/h3&gt;
+&lt;h1 id=&quot;policy-projects&quot;&gt;Policy projects&lt;/h1&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
